@@ -1,0 +1,128 @@
+HSET product:1001 category 41 name 'Brocoli' price 3.99
+HSET product:1002 category 43 name 'Cabbage' price 4.99
+HSET product:1003 category 42 name 'Kale' price 3.00
+HSET product:1004 category 42 name 'Collard Green' price 4.99
+HSET product:1005 category 43 name 'Carrot' price 5.00
+HSET product:1006 category 43 name 'Radishes' price 2.49
+HSET product:1007 category 44 name 'Roma Tomatores' price 9.00
+HSET product:1008 category 44 name 'Mixed Peppers' price 9.00
+HSET product:1009 category 46 name 'Sweet Potatoes' price 7.00
+HSET product:1010 category 46 name 'Yellow Potatoes' price 7.00
+HSET product:1011 category 46 name 'Yellow Onions' price 7.00
+HSET product:1012 category 47 name 'Buttercup Squash' price 8.30
+HSET product:1013 category 48 name 'English Cucumber' price 2.00
+HSET product:1014 category 48 name 'Celery Stalk' price 3.50
+HSET product:1015 category 50 name 'Garlic' price 7.00
+HSET product:1016 category 51 name 'Cilantro' price 1.50
+HSET product:1017 category 51 name 'Basil' price 4.00
+HSET product:1018 category 51 name 'Mint' price 2.00
+HSET product:1019 category 52 name 'Napa Cabbage' price 3.30
+HSET product:1020 category 52 name 'Bok Choy' price 3.50
+HSET product:1021 category 52 name 'Choy Sum' price 4.50
+HSET product:1022 category 52 name 'Gai Lan' price 4.50
+HSET product:1023 category 52 name 'Bean Sprouts' price 2.50
+HSET product:1024 category 52 name 'Japanese Yams' price 5.40
+HSET product:1025 category 52 name 'Flat Cabbage' price 3.30
+HSET product:1026 category 52 name 'Daikon Radish' price 2.70
+HSET product:1027 category 52 name 'Purple Eggplants' price 4.50
+HSET product:1028 category 52 name 'Eddoes' price 7.00
+HSET product:1029 category 52 name 'Watercress' price 2.00
+HSET product:1030 category 53 name 'Navel Oranges' price 5.00
+HSET product:1031 category 53 name 'Mandarin Oranges' price 6.00
+HSET product:1032 category 54 name 'Bananas' price 1.70
+HSET product:1033 category 57 name 'Blueberries' price 6.00
+HSET product:1034 category 57 name 'Blackberries' price 8.00
+HSET product:1035 category 57 name 'Strawberries' price 6.00
+HSET product:1036 category 58 name 'Pineapple' price 3.00
+HSET product:1037 category 58 name 'Kiwi' price 8.00
+HSET product:1038 category 59 name 'Papaya' price 5.50
+HSET product:1039 category 59 name 'Alphonso Mango' price 8.00
+HSET product:1040 category 59 name 'Fuyu Persimmon' price 9.00
+HSET product:1041 category 61 name 'Bartlett Pears' price 7.00
+HSET product:1042 category 61 name 'Ya Pears' price 5.00
+HSET product:1043 category 61 name 'Yellow Asian Pears' price 4.50
+HSET product:1044 category 11 name 'Veggie Ground Round' price 5.50
+HSET product:1045 category 11 name 'Veggie Ground Round Large' price 14.97
+HSET product:1046 category 11 name 'Veggie Dog' price 6.00
+HSET product:1047 category 12 name 'Extra Firm Tofu' price 2.50
+HSET product:1048 category 12 name 'Firm Tofu' price 2.50
+HSET product:1049 category 12 name 'Medium Firm Tofu' price 2.50
+HSET product:1050 category 64 name 'White Bread' price 2.50
+HSET product:1051 category 64 name 'Whole Wheat Bread' price 2.50
+HSET product:1052 category 66 name 'Sourdough Bread' price 5.00
+HSET product:1053 category 66 name 'Pumpernickel Bread' price 5.00
+HSET product:1054 category 67 name 'White Baguette' price 1.89
+HSET product:1055 category 68 name 'White Dinner Roll' price 3.99
+HSET product:1056 category 68 name 'Whole Wheat Dinner Roll' price 3.99
+HSET product:1057 category 69 name 'Kaiser Rolls White' price 4.29
+HSET product:1058 category 69 name 'Kaiser Rolls Whole Wheat' price 4.29
+HSET product:1059 category 69 name 'Submarine Buns' price 3.49
+HSET product:1060 category 70 name 'Hamburger Buns' price 3.29
+HSET product:1061 category 70 name 'Hotdog Buns' price 3.29
+HSET product:1062 category 71 name 'Naan Garlic' price 5.00
+HSET product:1063 category 71 name 'Naan Original' price 5.00
+HSET product:1064 category 18 name 'Whole Kernel Corn' price 7.00
+HSET product:1065 category 18 name 'Green Peas' price 7.00
+HSET product:1066 category 18 name 'Sliced Okra' price 7.00
+HSET product:1067 category 18 name 'Frozen Edamame' price 2.50
+HSET product:1068 category 18 name 'Green Peas' price 7.00
+HSET product:1069 category 19 name 'Frozen Blueberries' price 14.99
+HSET product:1070 category 19 name 'Frozen Strawberries' price 14.99
+HSET product:1071 category 19 name 'Frozen Mango' price 14.99
+HSET product:1072 category 78 name 'Jasmine Rice' price 18.00
+HSET product:1073 category 78 name 'Brown Rice' price 18.00
+HSET product:1074 category 79 name 'Rice Vermicelli' price 1.85
+HSET product:1075 category 79 name 'Thin Rice Noodles' price 1.49
+HSET product:1076 category 79 name 'Thick Rice Noodles' price 1.49
+HSET product:1077 category 79 name 'Udon Noodles' price 2.99
+HSET product:1078 category 80 name 'Macaroni Pasta' price 4.00
+HSET product:1079 category 80 name 'Penne Rigate Pasta' price 4.00
+HSET product:1080 category 80 name 'Rotini Pasta' price 1.97
+HSET product:1081 category 81 name 'Chickpeas' price 5.99
+HSET product:1082 category 81 name 'Red Kidney Beans' price 5.99
+HSET product:1083 category 81 name 'Pinto Beans' price 6.99
+HSET product:1084 category 81 name 'Navy Beans' price 6.99
+HSET product:1085 category 82 name 'Sushi Nori Seaweed Sheets' price 3.49
+HSET product:1086 category 82 name 'Dried Mushroom' price 12.99
+HSET product:1087 category 82 name 'Kombu Dried Kelp' price 6.99
+HSET product:1088 category 84 name 'Onion Powder' price 2.49
+HSET product:1089 category 84 name 'Garlic Powder' price 2.49
+HSET product:1090 category 84 name 'Ground Black Pepper' price 2.49
+HSET product:1091 category 84 name 'Chilli Powder' price 4.29
+HSET product:1092 category 84 name 'Ground Ginger' price 3.29
+HSET product:1093 category 85 name 'Iodized Table Salt' price 1.67
+HSET product:1094 category 85 name 'Vegetable Food Seasoning' price 6.99
+HSET product:1095 category 87 name 'Japanese Curry Mix Hot' price 3.99
+HSET product:1096 category 87 name 'Japanese Curry Mix Medium' price 3.99
+HSET product:1097 category 87 name 'Thai Green Curry Powder' price 3.99
+HSET product:1098 category 87 name 'Thai Red Curry Powder' price 3.99
+HSET product:1099 category 87 name 'Dark Soy Sauce' price 2.99
+HSET product:1100 category 87 name 'Red Pepper Paste Gochujang' price 6.99
+HSET product:1101 category 87 name 'Soy Bean Paste' price 6.99
+HSET product:1102 category 87 name 'Korean Bulgogi Sauce' price 7.99
+HSET product:1103 category 87 name 'Korean Galbi Sauce' price 7.99
+HSET product:1104 category 88 name 'Crushed Tomatoes' price 1.99
+HSET product:1105 category 88 name 'Diced Totamoes' price 1.99
+HSET product:1106 category 88 name 'Whole Totatoes' price 1.99
+HSET product:1107 category 90 name 'Chickpeas' price 1.79
+HSET product:1108 category 90 name 'Lentils' price 1.79
+HSET product:1109 category 90 name 'Red Kidney Beans' price 1.79
+HSET product:1110 category 90 name 'Beans Medley' price 1.79
+HSET product:1111 category 92 name 'Black Olives' price 2.99
+HSET product:1112 category 92 name 'Black Olives price Sliced' price 2.99
+HSET product:1113 category 93 name 'Strawberry Jam' price 5.79
+HSET product:1114 category 93 name 'Orange Marmalade' price 5.79
+HSET product:1115 category 98 name 'Dry Roasted Almonds' price 6.99
+HSET product:1116 category 98 name 'Dry Roasted Cashews' price 8.99
+HSET product:1117 category 98 name 'Walnut Halves & Pieces' price 6.99
+HSET product:1118 category 98 name 'Praline Peanuts' price 4.99
+HSET product:1119 category 98 name 'Dark Chocolate Covered Almonds' price 8.99
+HSET product:1120 category 30 name 'Soy Milk, Unsweetened' price 3.99
+HSET product:1121 category 30 name 'Soy Milk, Original' price 3.99
+HSET product:1122 category 32 name 'Almond Milk, Unsweetened' price 3.99
+HSET product:1123 category 32 name 'Almond Milk, Original' price 3.99
+HSET product:1124 category 33 name 'Cashew Milk, Unsweetened' price 3.99
+HSET product:1125 category 33 name 'Cashew Milk, Original' price 3.99
+HSET product:1126 category 34 name 'Oat Milk, Unsweetened' price 3.99
+HSET product:1127 category 34 name 'Oat Milk, Original' price 3.99
+
