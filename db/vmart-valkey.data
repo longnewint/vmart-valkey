@@ -126,3 +126,10 @@ HSET product:1125 category 33 name 'Cashew Milk, Original' price 3.99
 HSET product:1126 category 34 name 'Oat Milk, Unsweetened' price 3.99
 HSET product:1127 category 34 name 'Oat Milk, Original' price 3.99
 
+FT.CREATE product_idx_test
+ON HASH
+PREFIX 1 'product:'
+SCHEMA
+category NUMERIC
+name TEXT
+price NUMERIC SORTABLE
